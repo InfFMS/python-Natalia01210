@@ -3,3 +3,13 @@
 # Пример:
 # Ввод: Первое число: 10, Второе число: 2, Операция: *
 # Вывод: Результат: 20
+a, b = int(input()), int(input())
+c = input()
+if(c == '*'):
+    print(a * b)
+elif(c == '+'):
+    print(a + b)
+elif(c == '-'):
+    print(a - b)
+else:
+    print(a / b)

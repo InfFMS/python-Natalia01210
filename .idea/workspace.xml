@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95995a9c-ccd0-427f-80cf-de79ab1660bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-basics-assignment-1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/task1_greeting.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/task2_sum.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task1_greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/task1_greeting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10_line_equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/task10_line_equation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3_rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/task3_rectangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4_even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/task4_even_odd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5_reverse_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/task5_reverse_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6_arithmetic_progression.py" beforeDir="false" afterPath="$PROJECT_DIR$/task6_arithmetic_progression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task8_square_cube.py" beforeDir="false" afterPath="$PROJECT_DIR$/task8_square_cube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task9_division_remainder.py" beforeDir="false" afterPath="$PROJECT_DIR$/task9_division_remainder.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ljUbwzgM0uwfQ2kfWgBFwkvv4i" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,19 +36,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.task10_line_equation.executor": "Run",
     "Python.task1_greeting.executor": "Run",
     "Python.task2_sum.executor": "Run",
+    "Python.task3_rectangle.executor": "Run",
+    "Python.task4_even_odd.executor": "Run",
+    "Python.task5_reverse_number.executor": "Run",
+    "Python.task6_arithmetic_progression.executor": "Run",
+    "Python.task7_calculator.executor": "Run",
+    "Python.task9_division_remainder.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/KEGE/Desktop/Задание 0/python-Natalia01210",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Users/natvi/OneDrive/Рабочий стол/GIT/python-Natalia01210",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>
@@ -60,7 +69,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725693054389</updated>
+      <workItem from="1725701909582" duration="65000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
