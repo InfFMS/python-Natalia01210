@@ -6,14 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="95995a9c-ccd0-427f-80cf-de79ab1660bd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task10_line_equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/task10_line_equation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3_rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/task3_rectangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4_even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/task4_even_odd.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task5_reverse_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/task5_reverse_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6_arithmetic_progression.py" beforeDir="false" afterPath="$PROJECT_DIR$/task6_arithmetic_progression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task7_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task8_square_cube.py" beforeDir="false" afterPath="$PROJECT_DIR$/task8_square_cube.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task9_division_remainder.py" beforeDir="false" afterPath="$PROJECT_DIR$/task9_division_remainder.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +38,7 @@
     "Python.task5_reverse_number.executor": "Run",
     "Python.task6_arithmetic_progression.executor": "Run",
     "Python.task7_calculator.executor": "Run",
+    "Python.task8_square_cube.executor": "Run",
     "Python.task9_division_remainder.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
